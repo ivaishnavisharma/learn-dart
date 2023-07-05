@@ -1,5 +1,5 @@
 void main(){
- String value='b';
+ String value='u';
 if(value == 'a'){
     print ('vowel');
 }else if(value=='e'){
