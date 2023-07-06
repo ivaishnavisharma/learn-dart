@@ -29,12 +29,17 @@ void main(){
     //     print(code);
     // }
 
-    var age=19;
-    if(age>=18){
-        print('adult');
-    }else{
-        print('minor');
-    }
+
+print (hello world);
+
+
+var name='vaishnavi sharma';
+var code='sharma2101';
+var year='2021';{
+    print ('name');
+    print('code');
+    print('year');
+}
 }
 
 

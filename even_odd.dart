@@ -16,10 +16,10 @@
 
 // }
 void main(){
-    int number=987;
+    int number=67;
     if(number%2==0){
-    print('this is even');
+        print('even');
     }else{
-        print('this is odd');
+        print('odd');
     }
 }
