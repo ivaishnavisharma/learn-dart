@@ -11,7 +11,6 @@ print(a+b);
 
 void subtraction(int a, int b){
  print(a-b);
-
 }
 
 void multiplication(int m, int n){
