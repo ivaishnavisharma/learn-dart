@@ -41,7 +41,6 @@ int a=int.parse(value);
 String number=stdin.readLineSync()!;
 print ('number');
 
-
 int b  =int.parse(number);
 print(a + b);
 
