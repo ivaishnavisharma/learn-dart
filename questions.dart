@@ -1,6 +1,6 @@
-import 'dart:io';
+// import 'dart:io';
 
-void main(){
+// void main(){
   // int number = 567;
   // if(number%2==0){
   //   print('even');
@@ -59,11 +59,11 @@ void main(){
     // }
 
 
-for(int i =1; i<=100; i++){
+// for(int i =1; i<=100; i++){
 
-if(i!= 41){
-  print(i);
-}
+// if(i!= 41){
+//   print(i);
+// }
 
 
 // if(i == 41){
@@ -72,9 +72,9 @@ if(i!= 41){
 // print(i);
 // }
 
-}
+// }
 
-}
+// }
 
 
 

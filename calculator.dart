@@ -27,7 +27,7 @@ void main() {
     case 4:
       division(a, b);
       break;
-    case 5:
+    default:
       print('wrong number');
       break;
   }

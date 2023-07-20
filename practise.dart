@@ -1,18 +1,29 @@
-import 'dart:math';
+// import 'dart:math';
 
 
-void main(){
-// name();
-// evenNumber();
+// void main(){
+// // name();
+// // evenNumber();
+
+
+// List<int> items = [2,4,6,8];
+
+// for(int i = 0; i < items.length; i++){
+//   print(items[i]);
+// }
+
+// items.forEach((element) { 
+//   print(element);
+// });
 
 // password();
 // areaofcircle();
 // pythagorasTheorem();
 
 // reverse();
-power();
+// power();
 
-}
+// }
 // void name(){
 //   print('vaishnavi sharma');
 // } 
@@ -61,12 +72,12 @@ power();
 //   print(items.reversed.toList().join(" "));
 // }
 
-void power(){
-  int value=1;
-  int number=7;
-  int power=5;
-   for(int i=1;i<=power;i++){
-    value=value*number;
-  }
-  print(value);
-}
+// void power(){
+//   int value=1;
+//   int number=7;
+//   int power=5;
+//    for(int i=1;i<=power;i++){
+//     value=value*number;
+//   }
+//   print(value);
+// }
