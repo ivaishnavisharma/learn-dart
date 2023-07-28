@@ -26,35 +26,35 @@
 // }
 
 
-abstract class Bank{
-  String name;
-  double rate;
-  Bank(this.name,this.rate);
+// abstract class Bank{
+//   String name;
+//   double rate;
+//   Bank(this.name,this.rate);
 
-void interest();
-void display(){
-  print("bank name=$name");
-}
-}
-class SBI extends Bank{
-  SBI(String name,double rate):super(name,rate);
+// void interest();
+// void display(){
+//   print("bank name=$name");
+// }
+// }
+// class SBI extends Bank{
+//   SBI(String name,double rate):super(name,rate);
 
    
-  void interest(){
-    print("the rate of interest:$rate");
-  }
-}
-class ICICI extends Bank{
-  ICICI(String name,double rate):super(name,rate);
+//   void interest(){
+//     print("the rate of interest:$rate");
+//   }
+// }
+// class ICICI extends Bank{
+//   ICICI(String name,double rate):super(name,rate);
 
-  void interest(){
-    print("rate of interest:$rate");
-  }
-}
-void main(){
-  SBI sbi = SBI("SBI", 7.8);
-  sbi.interest();
-  ICICI icici = ICICI("ICICI", 8);
-  icici.interest();
-  icici.display();
-}
+//   void interest(){
+//     print("rate of interest:$rate");
+//   }
+// }
+// void main(){
+//   SBI sbi = SBI("SBI", 7.8);
+//   sbi.interest();
+//   ICICI icici = ICICI("ICICI", 8);
+//   icici.interest();
+//   icici.display();
+// }
